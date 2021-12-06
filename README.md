@@ -2,6 +2,8 @@
 1. 导出分为全量导出，和仅仅导出博客。参数，onlyblog。默认是True
 2. 在原有笔记，因为误操作，图片文本格式遭到了修改。导出的时候，需要简单修改一下
 
+Goodbye，渣女leanote。你因为个人的不稳定，导致我的惶恐不安。
+
 # leanote2md
 Export all you Markdown notes in Leanote (a.k.a 蚂蚁笔记) to local Markdown files.
 
